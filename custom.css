@@ -272,7 +272,8 @@ html[data-theme="dark"] .extensions__code-lang {
 }
 
 html[data-theme="dark"] #main-content-container code {
-  background: var(--darker-background);
+  background: var(--code-background);
+  color:var(--code-text)
 }
 html[data-theme="dark"] #main-content-container .selected code {
   background: var(--background);
