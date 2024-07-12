@@ -21,8 +21,8 @@ html[data-theme="dark"] {
   --cyan-hover: #8be9fd80;
   --pink: #ff79c6;
   --pink-hover: #ff79c680;
-  --code-background: #323545
-  --code-text: #E10808
+  --code-background: #323545;
+  --code-text: #E10808;
 
   --ls-tag-text-opacity: 0.8;
   --ls-tag-text-hover-opacity: 0.8;
