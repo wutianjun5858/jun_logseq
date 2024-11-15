@@ -22,7 +22,7 @@ html[data-theme="dark"] {
   --pink: #ff79c6;
   --pink-hover: #ff79c680;
   --code-background: #323545;
-  --code-text: #E10808;
+  --code-text: #ff79c6;
   --blue: #1FABCE;
 
   --ls-tag-text-opacity: 0.8;
@@ -62,8 +62,8 @@ html[data-theme="dark"] {
   --ls-head-text-color: var(--foreground);
   --ls-title-text-color: var(--foreground);
 
-  --ls-link-text-color: var(--pink);
-  --ls-link-text-hover-color: var(--pink-hover);
+  --ls-link-text-color: var(--blue);
+  --ls-link-text-hover-color: var(--blue);
 
   --ls-link-ref-text-color: var(--pink);
   --ls-link-ref-text-hover-color: var(--pink-hover);
