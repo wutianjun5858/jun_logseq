@@ -454,6 +454,11 @@ pre, code {
   white-space : pre-wrap !important;
 }
 
+/* Do not show recent file in left sidebar */
+.recent {
+  display: none;
+}
+
 /* Make "New page" button opaque */
 html[data-theme="dark"] .new-page-link {
   background: var(--background);
