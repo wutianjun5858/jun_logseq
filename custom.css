@@ -449,6 +449,11 @@ progress::-webkit-progress-value {
     border-bottom: none;
 }
 
+/* Wrap the content inside code blocks in all themes */
+pre, code {
+  white-space : pre-wrap !important;
+}
+
 /* Make "New page" button opaque */
 html[data-theme="dark"] .new-page-link {
   background: var(--background);
